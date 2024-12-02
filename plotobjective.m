@@ -1,3 +1,8 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Ploteo de funcion objetivo
+% Fecha: 1/12/2024
+
 function plotobjective(fcn,range)
 %PLOTOBJECTIVE plot a fitness function in two dimensions
 %   plotObjective(fcn,range) where range is a 2 by 2 matrix in which each

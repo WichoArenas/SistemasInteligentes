@@ -1,3 +1,8 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Archivo de apoyo para trazo de graficas
+% Fecha: 1/12/2024
+
 function scores = dejong2fcn(pop)
 %DEJONG2FCN Compute DeJongs second function.
 %This function is also known as Rosenbrock's function

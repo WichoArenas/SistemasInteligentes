@@ -1,3 +1,9 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Comparacion de algoritmo de PSO vs Algoritmo Genetico en
+% funcion de Rosenbrock
+% Fecha: 1/12/2024
+
 % Limpieza del entorno
 clear; clc; close all;
 

@@ -1,3 +1,8 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Funcion de Rastringin
+% Fecha: 1/12/2024
+
 function scores = rastriginsfcn(pop)
 %RASTRIGINSFCN Compute the "Rastrigin" function.
 

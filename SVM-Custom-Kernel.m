@@ -1,3 +1,8 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Kernel Custom para SVM
+% Fecha: 1/12/2024
+
 rng(1);  % For reproducibility
 n = 100; % Number of points per quadrant
 

@@ -1,3 +1,9 @@
+% Autor: Luis Eduardo Arenas Deseano
+% Proyecto: Sistemas Inteligentes
+% Descripción: Prueba de Custom Kernel
+% Fecha: 1/12/2024
+
+
 rng(1);  % For reproducibility
 n = 100; % Number of points per quadrant
 

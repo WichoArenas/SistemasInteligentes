@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Algoritmo difuso para calefaccion
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de algoritmo difuso para calcular la calefaccion
+# Fecha: 01/12/2024
+
+
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl

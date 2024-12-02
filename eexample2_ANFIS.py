@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Prueba de algoritmo ANFIS
+# Materia: Sistemas Inteligentes
+# Descripción: llamdo de libreria de algoritmo ANFIS
+# Fecha: 01/12/2024
+
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split

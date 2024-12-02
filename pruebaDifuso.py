@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Algoritmod e comida y propina para difuso
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de comida con libreria para modelos difusos
+# Fecha: 01/12/2024
+
+
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl

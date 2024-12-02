@@ -1,9 +1,16 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Series de tiempo con Ciudad y APi de Open Weather
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de algoritmo de series de tiempo con conexion de APi a OpenWeather
+# Fecha: 01/12/2024
+
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
 import requests
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
+
 
 # API de OpenWeatherMap
 API_KEY = '341d91b86abd97e3931935e2ca301021'

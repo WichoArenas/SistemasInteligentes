@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Algoritmo PSO 2
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de benchmark de funcion Rosenbrock con algoritmo PS
+# Fecha: 01/12/2024
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D

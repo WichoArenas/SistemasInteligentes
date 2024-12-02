@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Modelo de ANFIS
+# Materia: Sistemas Inteligentes
+# Descripción: Libreria pra ejecutar algoritmo ANFIS
+# Fecha: 01/12/2024
+
+
 
 import random
 import numpy as np

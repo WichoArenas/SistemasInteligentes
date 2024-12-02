@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Hyper Plano con SVM
+# Materia: Sistemas Inteligentes
+# Descripción: calculo de Hyperplano para SVM
+# Fecha: 01/12/2024
+
+
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC

@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Multiclase SVM 2
+# Materia: Sistemas Inteligentes
+# Descripción: Calculo de hyper plano en SVM multiclase
+# Fecha: 01/12/2024
+
+
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
@@ -108,6 +115,7 @@ def svm_high_overlap(num_classes=3, points_per_class=50, cluster_std=3.5):
     display_decision_boundary(svm_model, X, y)
     display_confusion_matrix(svm_model, X_test, y_test)
     display_roc_curves(svm_model, X_train, y_train, X_test, y_test, num_classes)
+
 
 
 # Ejecutar función opcion 1

@@ -1,3 +1,11 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Multiclase SVM 1
+# Materia: Sistemas Inteligentes
+# Descripción: Calculo de hyper plano en SVM multiclase
+# Fecha: 01/12/2024
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import datasets

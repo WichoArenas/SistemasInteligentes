@@ -1,3 +1,9 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Algoritmo evolutivo
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de algoritmo evolutivo
+# Fecha: 01/12/2024
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation

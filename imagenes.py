@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Impresion de imagenes para SVM
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de SVM
+# Fecha: 01/12/2024
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 

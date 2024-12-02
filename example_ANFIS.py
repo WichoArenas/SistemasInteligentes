@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Ejemplo ANFIS
+# Materia: Sistemas Inteligentes
+# Descripción: Prueba de algoritmo ANFIS
+# Fecha: 01/12/2024
+
+
 from sklearn.model_selection import train_test_split 
 import pandas as pd
 import matplotlib.pyplot as plt

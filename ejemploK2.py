@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Graficacion de F2
+# Materia: Sistemas Inteligentes
+# Descripción: grafica
+# Fecha: 01/12/2024
+
+
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC

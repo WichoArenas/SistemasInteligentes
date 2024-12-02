@@ -1,3 +1,10 @@
+# Autor: Luis Eduardo Arenas Deseano
+# Titulo: Prueba de kernel
+# Materia: Sistemas Inteligentes
+# Descripción: Ejemplo con modelo y con un kernel dado para un algoritmo
+# Fecha: 01/12/2024
+
+
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
